@@ -2,7 +2,7 @@
 
 Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Information Technology & Informatics and a Google Data Analytics Professional Certificate. Over the past year I’ve strengthened my technical and analytical skills through my certification and internship experience, applying them in a series of data projects. 
 
-**Skills:** Python (Pandas, NumPy, scikit-learn), SQL, Tableau, Data Cleaning & Visualization, Predictive Modeling
+- **Skills:** Python (Pandas, NumPy, scikit-learn), SQL, Tableau, Data Cleaning & Visualization, Predictive Modeling
 ---
 
 ## Projects
