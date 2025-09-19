@@ -13,7 +13,7 @@ Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Info
 | **[Amazon Fashion Predictive Model](https://github.com/Jakob-Sarmiento/amazon-fashion-sales-predictive-model)** | Created a logistic regression predictive model in Python, to analyze what features of a product impact whether or not they get high ratings| Python (scikit-learn, Pandas, Matplotlib) |
 ---
 
-## Contact
+## Contact Information
 - [LinkedIn Profile](https://www.linkedin.com/in/jakob-sarmiento-080074264/)  
 - [Github Profile](https://github.com/Jakob-Sarmiento)
 - **Email**: jakobnsarmiento@gmail.com
