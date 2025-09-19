@@ -19,5 +19,4 @@ Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Info
 - **Email**: jakobnsarmiento@gmail.com
 
 ---
-
-*Thank you for visiting my portfolio! Feel free to explore the projects above and connect with me for collaboration or opportunities.*
+** Thank you for visiiting my portfolio! I am always free to contact and collaborate on future work projects **
