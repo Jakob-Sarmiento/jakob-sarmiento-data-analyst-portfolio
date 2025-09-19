@@ -4,7 +4,7 @@ Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Info
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Tech / Skills 
 |--------|------------|---------------|
@@ -13,3 +13,11 @@ Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Info
 | **[Amazon Fashion Predictive Model](https://github.com/Jakob-Sarmiento/amazon-fashion-sales-predictive-model)** | Created a logistic regression predictive model in Python, to analyze what features of a product impact whether or not they get high ratings| Python (scikit-learn, Pandas, Matplotlib) |
 ---
 
+## Contact
+- **LinkedIn**: [linkedin.com/in/jakob-sarmiento](https://www.linkedin.com/in/jakob-sarmiento-080074264/)  
+- **GitHub**: [github.com/Jakob-Sarmiento](https://github.com/Jakob-Sarmiento)
+- **Email**: jakobnsarmiento@gmail.com
+
+---
+
+*Thank you for visiting my portfolio! Feel free to explore the projects above and connect with me for collaboration or opportunities.*
