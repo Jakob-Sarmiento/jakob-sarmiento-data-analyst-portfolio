@@ -4,12 +4,6 @@ Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Info
 
 **Skills:** Python (Pandas, NumPy, scikit-learn), SQL, Tableau, Data Cleaning & Visualization, Predictive Modeling
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-orange?logo=tableau&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML%20Modeling-brightgreen?logo=scikit-learn&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&logoColor=white)
-
 ---
 
 ## Projects
