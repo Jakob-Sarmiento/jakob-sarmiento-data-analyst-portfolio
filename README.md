@@ -13,11 +13,3 @@ Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Info
 | **[Amazon Fashion Predictive Model](https://github.com/Jakob-Sarmiento/amazon-fashion-sales-predictive-model)** | Created a logistic regression predictive model in Python, to analyze what features of a product impact whether or not they get high ratings| Python (scikit-learn, Pandas, Matplotlib) |
 ---
 
-### 🛠️ How to Use This Template
-1. Replace each `link-to-your-project-folder-or-repo` with the actual GitHub URL (or a relative path if the project lives inside this repo).
-2. Update descriptions and tech stacks to match your projects.
-3. Commit and push — GitHub will render the table neatly on your profile.
-
----
-
-💡 *Tip:* Add badges (e.g., Python, SQL, Tableau) or screenshots if you want extra visual appeal.
