@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Information Technology & Informatics and a Google Data Analytics Professional Certificate. Over the past year I’ve strengthened my technical and analytical skills my certification and internship experience, applying them in a series of data projects. 
+Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Information Technology & Informatics and a Google Data Analytics Professional Certificate. Over the past year I’ve strengthened my technical and analytical skills through my certification and internship experience, applying them in a series of data projects. 
 
 ---
 
@@ -8,7 +8,7 @@ Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Info
 
 | Project | Description | Tech / Skills | Links |
 |--------|------------|---------------|-------|
-| **[Amazon Fashion Product & Sales Analysis](link-to-your-project-folder-or-repo)** | Exploratory analysis of 13k Amazon fashion products to uncover pricing and rating patterns. Includes a Tableau dashboard and KPIs for sellers. | Python (Pandas, Matplotlib), SQL, Tableau | [🔗 Repo](link-to-your-project-folder-or-repo) · [📊 Dashboard](link-to-your-tableau-link) |
+| **[Amazon Fashion Product & Sales Analysis](https://github.com/Jakob-Sarmiento/north-american-video-game-sales-analysis)** | Exploratory analysis of 13k Amazon fashion products to uncover pricing and rating patterns. Includes a Tableau dashboard and KPIs for sellers. | Python (Pandas, Matplotlib), SQL, Tableau | [🔗 Repo](link-to-your-project-folder-or-repo) · [📊 Dashboard](link-to-your-tableau-link) |
 | **[Video Game Sales Analysis – North America](link-to-your-project-folder-or-repo)** | Examines market trends and top-selling genres/platforms to guide publisher strategy. | Python, SQL, Tableau | [🔗 Repo](link-to-your-project-folder-or-repo) |
 | **[Amazon Fashion Predictive Model](link-to-your-project-folder-or-repo)** | Logistic regression model predicting whether a product will earn a 4.0+ rating, with feature-importance analysis. | Python (scikit-learn, Pandas, Matplotlib) | [🔗 Repo](link-to-your-project-folder-or-repo) |
 
