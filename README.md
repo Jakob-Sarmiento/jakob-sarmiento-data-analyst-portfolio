@@ -8,7 +8,7 @@ Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Info
 
 | Project | Description | Tech / Skills 
 |--------|------------|---------------|
-| **[Amazon Fashion Product & Sales Analysis](https://github.com/Jakob-Sarmiento/amazon-fashion-sales-eda-analysis)** | Applied EDA to a 13,000-row Amazon fashion dataset to uncover trends in pricing, category, and brands to provide further business recommendations.  | Python (Pandas, Matplotlib, Numpy, Seaborn) | 
+| **[Amazon Fashion Product EDA Sales Analysis](https://github.com/Jakob-Sarmiento/amazon-fashion-sales-eda-analysis)** | Applied EDA to a 13,000-row Amazon fashion dataset to uncover trends in pricing, category, and brands to provide further business recommendations.  | Python (Pandas, Matplotlib, Numpy, Seaborn) | 
 | **[Video Game Sales Analysis – North America](https://github.com/Jakob-Sarmiento/north-american-video-game-sales-analysis)** | Analyzed video-game sales data to uncover market trends in North America to provide more information for video game publishers to optimize and take advantage of the current video game market. | Python, SQL, Tableau | 
 | **[Amazon Fashion Predictive Model](link-to-your-project-folder-or-repo)** | Logistic regression model predicting whether a product will earn a 4.0+ rating, with feature-importance analysis. | Python (scikit-learn, Pandas, Matplotlib) |
 ---
