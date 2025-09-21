@@ -17,8 +17,8 @@ Hello, I’m Jakob Sarmiento - an aspiring data analyst with a B.S. in Informati
 
 ## Contact Information
 - [LinkedIn Profile](https://www.linkedin.com/in/jakob-sarmiento-080074264/)  
-- [Github Profile](https://github.com/Jakob-Sarmiento)
+- [GitHub Profile](https://github.com/Jakob-Sarmiento)
 - **Email**: jakobnsarmiento@gmail.com
 
 ---
-Thank you for visiiting my portfolio! Feel free to look at my projects and contact me for future collaboration or opportunities.
+Thank you for visitng my portfolio! Feel free to look at my projects and contact me for future collaboration or opportunities.
