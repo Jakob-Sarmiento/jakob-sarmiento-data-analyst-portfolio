@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Hello, I’m Jakob Sarmiento. I’m an aspiring data analyst with a B.S. in Information Technology & Informatics and a Google Data Analytics Professional Certificate. Over the past year I’ve strengthened my technical and analytical skills through my Google certification and an internship, applying them to real-world data projects. 
+Hello, I’m Jakob Sarmiento - an aspiring data analyst with a B.S. in Information Technology & Informatics and a Google Data Analytics Professional Certificate. Over the past year I’ve strengthened my technical and analytical skills through my Google certification and an internship, applying them to real-world data projects. 
 
 **Skills:** Python (Pandas, NumPy, scikit-learn), SQL, Tableau, Data Cleaning & Visualization, Predictive Modeling
 
